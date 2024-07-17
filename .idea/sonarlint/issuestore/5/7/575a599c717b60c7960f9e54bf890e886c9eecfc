@@ -1,0 +1,61 @@
+
+™
+java:S1104"]Make employeeUserEmail a static final constant or non-public and provide accessors if needed.(ªˆÌäJ$1d13c300-ce3b-485c-a2b5-8b23105dcc65
+™
+java:S1104"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿJ$57ffa5b8-4b6e-4d23-8152-2216102dcaa3
+s
+java:S1444"7Make this "public static employeeUserEmail" field final(ªˆÌäJ$159f7e5e-9e13-441c-84b3-d767b1a7592e
+s
+java:S1444"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿJ$415b3dfa-3772-4c16-8d6c-97991548cd23
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²æç·J$444b2872-92c5-4dea-8fca-fe746a0d9d09
+c	java:S108(")Either remove or fill this block of code.(Éò§+J$8ede97d5-1856-4276-97d6-25dedc69f3be
+m
+java:S1172+"2Remove this unused method parameter "actionEvent".(¡æôbJ$20b23892-7c0e-46c1-b357-62124e983860
+q
+java:S2696-"6Make the enclosing method "static" or remove this set.(–‹„lJ$0d153056-b9c3-4586-9e1a-4751586b8fb5
+s
+java:S11720"2Remove this unused method parameter "actionEvent".(¦î»ÀüÿÿÿÿJ$58771501-fd45-4a26-ae5d-19797e2e843f
+S
+java:S26961"6Make the enclosing method "static" or remove this set.(ÊŞ‘½8Ñ»Ñğ„2
+R
+java:S26962"6Make the enclosing method "static" or remove this set.(¶˜–P8Ò»Ñğ„2
+n
+java:S11725"2Remove this unused method parameter "actionEvent".(ÎŠä’J$735661ac-457d-4202-a109-2b6c92522b82
+S
+java:S26966"6Make the enclosing method "static" or remove this set.(Š´Ñ…8Ò»Ñğ„2
+X
+java:S26968"6Make the enclosing method "static" or remove this set.(÷Ø»ùÿÿÿÿ8Ó»Ñğ„2
+s
+java:S1172;"2Remove this unused method parameter "actionEvent".(ÂÊö±ûÿÿÿÿJ$30870bce-2d4c-43ae-8702-5a0ed019007f
+S
+java:S2696<"6Make the enclosing method "static" or remove this set.(Š¾Éò8´Á®…2
+X
+java:S2696>"6Make the enclosing method "static" or remove this set.(Ò€ä¦ıÿÿÿÿ8´Á®…2
+n
+java:S1172A"2Remove this unused method parameter "actionEvent".(Õ’Ä½J$b2116c0f-1671-4d47-b5d9-68ec19e456df
+S
+java:S2696B"6Make the enclosing method "static" or remove this set.(•šò²8Ó»Ñğ„2
+S
+java:S2696D"6Make the enclosing method "static" or remove this set.(©™Öï8Ô»Ñğ„2
+s
+java:S1172G"2Remove this unused method parameter "actionEvent".(şµß®úÿÿÿÿJ$ce4b2dd0-d7c4-4dd2-bde0-5914b402de15
+X
+java:S2696H"6Make the enclosing method "static" or remove this set.(•Ö½¿şÿÿÿÿ8¸Á®…2
+S
+java:S2696J"6Make the enclosing method "static" or remove this set.(õ‡è8¸Á®…2
+s
+java:S1172M"2Remove this unused method parameter "actionEvent".(—²ÜğøÿÿÿÿJ$f8e69608-68b1-4507-badc-f9c80c660da8
+S
+java:S2696O"6Make the enclosing method "static" or remove this set.(Ç™ü’8ºÁ®…2
+s
+java:S1172R"2Remove this unused method parameter "actionEvent".(»ÆàèøÿÿÿÿJ$68a0660a-7bec-460d-88f5-ed80c369ec3e
+S
+java:S2696S"6Make the enclosing method "static" or remove this set.(Š¾È¿8»Á®…2
+S
+java:S2696U"6Make the enclosing method "static" or remove this set.(†©µÃ8»Á®…2
+z
+java:S1172X"2Remove this unused method parameter "actionEvent".(‚×Ååÿÿÿÿÿ8ÑÜÅğ„2J$e4633ac0-c15d-41df-a3a0-1c8e356396dc
+u
+java:S1172_"2Remove this unused method parameter "actionEvent".(Ã¦¿ó8ÕÜÅğ„2J$de786df2-90e3-4284-8b7f-da9e2f46bae0
+u
+java:S1172f"2Remove this unused method parameter "actionEvent".(ò÷³Ù8ØÜÅğ„2J$97668a4c-eaeb-4d6f-a23f-04edcdf55b39

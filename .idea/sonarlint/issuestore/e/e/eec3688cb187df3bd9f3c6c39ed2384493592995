@@ -1,0 +1,87 @@
+
+w
+java:S3740)"/Provide the parametrized type for this generic.(ëã¾ûÿÿÿÿ8Ê¼˜†2J$fafa05e0-8e79-47c5-bb25-1bdee7f286bb
+w
+java:S37409"/Provide the parametrized type for this generic.(¸çÃÍşÿÿÿÿ8Ê¼˜†2J$4f32e640-61fc-4705-9458-8141fb0ef884
+ 
+java:S1104&"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿ8Ë¼˜†2J$a2ef51b5-3cbd-48e6-ad0c-d4740fbf239a
+
+java:S1104'"VMake employeeID a static final constant or non-public and provide accessors if needed.(ß‹ƒæøÿÿÿÿ8Ì¼˜†2J$99a6ae77-8ea3-4982-97df-6ea5a5c1f076
+Ÿ
+java:S1104("\Make txtCustomerEmail a static final constant or non-public and provide accessors if needed.(îÜÆ˜8Ì¼˜†2J$49656c5d-5db9-4c5a-95c4-8052c0499656
+›
+java:S1104)"SMake cmbItem a static final constant or non-public and provide accessors if needed.(ëã¾ûÿÿÿÿ8Ì¼˜†2J$12c49d46-0bf6-4bea-ab2b-cad7c7e0ed7b
+¦
+java:S1104*"^Make txtEmailValidation a static final constant or non-public and provide accessors if needed.(îÇÿ©ÿÿÿÿÿ8Ì¼˜†2J$da5fd5b4-1586-4804-92be-4de7c95b22b7
+­
+java:S1104+"eMake txtMobileNumberValidation a static final constant or non-public and provide accessors if needed.(Š‰°„ûÿÿÿÿ8Ì¼˜†2J$a1a9f72b-e484-47ed-a9f8-c121eb2230de
+£
+java:S1104,"[Make txtCustomerName a static final constant or non-public and provide accessors if needed.(ì¨ìÑøÿÿÿÿ8Ì¼˜†2J$76a7aa0e-152a-4907-8de0-59e9e4c0ec32
+«
+java:S1104-"cMake txtCustomerMobileNumber a static final constant or non-public and provide accessors if needed.(–Éåêúÿÿÿÿ8Ì¼˜†2J$eb1a1502-b565-4841-a81f-9bdd21abf340
+›
+java:S1104."YMake btnCreditCard a static final constant or non-public and provide accessors if needed.(æ‘¬e8Ì¼˜†2J$b02be480-781c-4f61-b8e8-bab6f27bbcc5
+›
+java:S1104/"SMake btnCash a static final constant or non-public and provide accessors if needed.(ğú¾úÿÿÿÿ8Ì¼˜†2J$4361edc3-a919-455d-8ac6-4d874fcd8081
+–
+java:S11040"SMake tblItem a static final constant or non-public and provide accessors if needed.(… À8Ì¼˜†2J$4a6299ef-ca2e-4055-8a02-98e0731d7b1e
+
+java:S11041"UMake colItemID a static final constant or non-public and provide accessors if needed.(èÛıÿÿÿÿ8Ì¼˜†2J$0389941d-d0d8-4cc2-b750-4b0c0c6106c6
+Ÿ
+java:S11042"WMake colItemName a static final constant or non-public and provide accessors if needed.(†ÆÒËúÿÿÿÿ8Ì¼˜†2J$41d2ffc2-7a1a-483e-b79b-aeb2a38bedd6
+›
+java:S11043"SMake colSize a static final constant or non-public and provide accessors if needed.(ÑˆÀäıÿÿÿÿ8Ì¼˜†2J$7e97cc25-14f2-4759-9cec-2186f4533ca0
+œ
+java:S11044"TMake colPrice a static final constant or non-public and provide accessors if needed.(¨¿ûûÿÿÿÿ8Ì¼˜†2J$99400e46-04e9-4a92-82fe-bd78652385bc
+Ÿ
+java:S11045"WMake colQuantity a static final constant or non-public and provide accessors if needed.(‹ –ÿÿÿÿÿ8Ì¼˜†2J$dbc6edad-3ce2-4f9a-966f-ae4e0ce9ddf3
+˜
+java:S11046"VMake txtOrderID a static final constant or non-public and provide accessors if needed.(Å«„-8Ì¼˜†2J$bbbc40ad-32bb-43c5-ae59-893feac05bed
+•
+java:S11047"SMake txtDate a static final constant or non-public and provide accessors if needed.(”É£88Ì¼˜†2J$e8f89cdd-79d8-48a6-a90c-b29743884a08
+—
+java:S11048"TMake txtPrice a static final constant or non-public and provide accessors if needed.(ğÀ½ì8Ì¼˜†2J$b95a5771-0ec0-49f5-9af2-e83a3b1e5163
+Ÿ
+java:S11049"WMake cmbQuantity a static final constant or non-public and provide accessors if needed.(¸çÃÍşÿÿÿÿ8Ì¼˜†2J$2b57aad5-b7f9-4749-bf77-80b6927e214a
+z
+java:S1444&"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿ8Î¼˜†2J$157c42c2-45b6-4010-bb5e-8786a9865194
+x
+java:S1444'"0Make this "public static employeeID" field final(ß‹ƒæøÿÿÿÿ8Î¼˜†2J$36297d15-fc09-452e-a2ee-a8f3fbca8bb9
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úÿ¯Ãÿÿÿÿÿ8Ñ¼˜†2J$f4df95a3-69d0-47d2-8277-95a2f18802f0
+£
+java:S1450>"[Remove the "isValidEmail" field and declare it as a local variable in the relevant methods.(¹®§ãûÿÿÿÿ8÷¼˜†2J$8a9f12f6-6e58-49a6-8632-b1d93a98cdfb
+¦
+java:S1450?"^Remove the "isValidMobileNo" field and declare it as a local variable in the relevant methods.(‡Û°şÿÿÿÿ8ø¼˜†2J$b427b7d3-e9ea-45af-9ecc-9381ce157dcb
+r
+java:S1172["/Remove this unused method parameter "keyEvent".(Ü”âä8€‘¼˜†2J$c33c7196-abe8-4aef-8d6d-f2c5bf8ec92c
+r
+java:S1172d"/Remove this unused method parameter "keyEvent".(İ‡“8‘¼˜†2J$50142303-96a0-4c3f-9994-8eeab26d204a
+z
+java:S1172n"2Remove this unused method parameter "actionEvent".(»…ä«ùÿÿÿÿ8‘¼˜†2J$c470d733-d0e3-490c-a899-d5fb0b365fc3
+v
+java:S1172Œ"2Remove this unused method parameter "actionEvent".(ŠÜÎ£8ƒ‘¼˜†2J$a9a9264a-1592-4131-a8df-f7fa607fa374
+{
+java:S1172•"2Remove this unused method parameter "actionEvent".(óü£öÿÿÿÿÿ8„‘¼˜†2J$da3c7f0d-f66a-49a4-a176-809a8cb34dd5
+{
+java:S1172º"2Remove this unused method parameter "actionEvent".(³Üûóúÿÿÿÿ8‡‘¼˜†2J$147d4821-67ee-4880-a69a-802417cbbcaa
+u
+java:S1172İ"2Remove this unused method parameter "actionEvent".(¡æôb8Š‘¼˜†2J$ee1e9fe1-8825-487c-9f3b-5f7ec2737b38
+y
+java:S2696æ"6Make the enclosing method "static" or remove this set.(–‹„l8”‘¼˜†2J$7b8cf74e-38ea-4e3a-a6b1-7e07c3786b6e
+l	java:S108ç")Either remove or fill this block of code.(ï­£Ä8•‘¼˜†2J$8feac357-acab-4f6b-9fb6-13d0eade62d5
+v
+java:S1172ë"2Remove this unused method parameter "actionEvent".(Æ¾ôÄ8•‘¼˜†2J$c89ce1ef-298e-4e4f-8083-050b5698d301
+z
+java:S2696ô"6Make the enclosing method "static" or remove this set.(Ôû³8–‘¼˜†2J$a46e1b82-0a99-42bc-b961-213a7df9ea3a
+l	java:S108õ")Either remove or fill this block of code.(ï­£Ä8–‘¼˜†2J$62a7cb5b-63b7-4700-8815-28b2dfa0611e
+{
+java:S1172ù"2Remove this unused method parameter "actionEvent".(«Î‡¼ÿÿÿÿÿ8—‘¼˜†2J$8e3537fd-cd5a-4716-9908-159d956de6dc
+z
+java:S2696ú"6Make the enclosing method "static" or remove this set.(Š¾È¿8—‘¼˜†2J$6f27cd1b-b70e-4057-bda7-eedd911e5c46
+z
+java:S2696ƒ"6Make the enclosing method "static" or remove this set.(†©µÃ8˜‘¼˜†2J$7a33befa-9478-4306-9578-f86603f55df7
+l	java:S108„")Either remove or fill this block of code.(ï­£Ä8˜‘¼˜†2J$97eb0748-7900-4cd9-94c8-b81f7c85f3a3
+x
+java:S1068>"0Remove this unused "isValidEmail" private field.(¹®§ãûÿÿÿÿ8™‘¼˜†2J$fde14063-77d2-4264-91f2-fb97eb7228d0
+{
+java:S1068?"3Remove this unused "isValidMobileNo" private field.(‡Û°şÿÿÿÿ8™‘¼˜†2J$0dbf073e-e829-48c3-b981-74396affa5ae

@@ -1,0 +1,13 @@
+
+†
+java:S1128">Remove this unused import 'jakarta.persistence.EntityManager'.(·ïŸéúÿÿÿÿ8º³¢Å‡2J$b2b2655d-57d7-4645-9cc3-4e2728a9ba4a
+
+java:S1128"ERemove this unused import 'jakarta.persistence.EntityManagerFactory'.(‹ ñºûÿÿÿÿ8»³¢Å‡2J$8a16e6c3-48ae-4e3c-ac00-ec66cdeffe79
+Š
+java:S1128"BRemove this unused import 'jakarta.persistence.EntityTransaction'.(¡«Ä×üÿÿÿÿ8¼³¢Å‡2J$a21130ed-9e9e-4701-b6a8-92286bf8fe7c
+„
+java:S1128"<Remove this unused import 'jakarta.persistence.Persistence'.(ŸÖ¦µÿÿÿÿÿ8¼³¢Å‡2J$1f87c53e-d60e-450c-a45a-86afa2b894e7
+r
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8¼³¢Å‡2J$03025381-391a-4512-8fca-a6d4098fa553
+w
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8¼³¢Å‡2J$04ed33ca-a03b-4a4f-b87d-be5b1418c508

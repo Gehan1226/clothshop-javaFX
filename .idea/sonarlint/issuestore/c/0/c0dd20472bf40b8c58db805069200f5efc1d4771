@@ -1,0 +1,55 @@
+
+p
+java:S3740#"/Provide the parametrized type for this generic.(«±ü¢şÿÿÿÿJ$bf220907-b105-4f25-94e7-7f15d1e20a52
+k
+java:S3740$"/Provide the parametrized type for this generic.(‹ü¿©J$addfb027-9b6d-41f6-a026-63c4f4a82ad6
+™
+java:S1104"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿJ$67326c82-1ce3-437d-97dc-47954f8f1d50
+”
+java:S1104"XMake txtFirstName a static final constant or non-public and provide accessors if needed.(µõÄúJ$d014c9bb-d662-4471-ab1a-53ab117f9c9d
+“
+java:S1104 "WMake txtLastName a static final constant or non-public and provide accessors if needed.(ÁŠÂ J$e9086b65-b246-440b-98d5-27f540bc744d
+•
+java:S1104!"TMake txtNicNo a static final constant or non-public and provide accessors if needed.(ÙÚƒ¢ıÿÿÿÿJ$9a5f8cb1-9bad-4b0e-b32b-67760162285d
+œ
+java:S1104""[Make txtMobileNumber a static final constant or non-public and provide accessors if needed.(İ½¨şÿÿÿÿJ$917f41a3-d2a0-4120-9e1a-13b16d4f1c42
+˜
+java:S1104#"WMake cmbProvince a static final constant or non-public and provide accessors if needed.(«±ü¢şÿÿÿÿJ$c31fc4a5-79fb-4917-afd9-4cc782016d80
+“
+java:S1104$"WMake cmbDistrict a static final constant or non-public and provide accessors if needed.(‹ü¿©J$90242c64-e942-4a51-ad92-869566934c7f
+•
+java:S1104%"TMake txtEmail a static final constant or non-public and provide accessors if needed.(Ø¦½üÿÿÿÿJ$d30a74ce-87e5-45dc-b13d-1972fcd0da9e
+
+java:S1104&"\Make btnResetPassword a static final constant or non-public and provide accessors if needed.(³âù½ûÿÿÿÿJ$475204b7-baf4-4353-a4d7-fc4db43585a6
+Ÿ
+java:S1104'"^Make txtEmailValidation a static final constant or non-public and provide accessors if needed.(îÇÿ©ÿÿÿÿÿJ$14b806d5-45ac-4b6d-8398-ae6184d77543
+¦
+java:S1104("eMake txtMobileNumberValidation a static final constant or non-public and provide accessors if needed.(Š‰°„ûÿÿÿÿJ$ea2e862e-9e72-4ba6-a9ca-5443dab686c2
+
+java:S1104)"TMake txtEmpID a static final constant or non-public and provide accessors if needed.(×ú’ëJ$bda72082-04e8-4a13-81f2-0b7cbf5126f4
+s
+java:S1444"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿJ$2850ed91-cb14-43bf-81c8-3c33513b2e05
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ÿá·J$e7e5cd5f-25f0-4b5c-b6f3-9ccc5c8b212b
+m
+java:S1172>"2Remove this unused method parameter "actionEvent".(¡æôbJ$6667f972-617e-4611-ac1f-3a25048a2404
+q
+java:S2696G"6Make the enclosing method "static" or remove this set.(–‹„lJ$a14de325-0a86-47ab-8e5c-5b5e22f511ac
+d	java:S108H")Either remove or fill this block of code.(ï­£ÄJ$1005de3c-3a73-45d7-9cd1-bfe3b08c827c
+s
+java:S1172L"2Remove this unused method parameter "actionEvent".(Úó¥üøÿÿÿÿJ$d2ca9ef9-6182-4d68-a8ad-5828d1a167fa
+k
+java:S1172m"/Remove this unused method parameter "keyEvent".(İ‡“J$bb1851a3-1d33-4c84-9422-3a7cbf8a3b9a
+k
+java:S1172w"/Remove this unused method parameter "keyEvent".(Ü”âäJ$44ac98bb-c10c-4b6b-8fd3-5d9070881a57
+o
+java:S1172€"2Remove this unused method parameter "actionEvent".(Æ¾ôÄJ$8446b762-7801-41bb-92bd-77a029ef363e
+x
+java:S2696‰"6Make the enclosing method "static" or remove this set.(¬ŞœüÿÿÿÿJ$2ae9ae48-1098-4dad-8d2d-fe0d7047c4b6
+e	java:S108Š")Either remove or fill this block of code.(ï­£ÄJ$0a5780a0-f12b-45b9-b109-6773943c45b5
+n
+java:S1172"2Remove this unused method parameter "actionEvent".(¾½œBJ$610b9357-dd79-4307-a828-23f0ed9b22b2
+T
+java:S2696—"6Make the enclosing method "static" or remove this set.(¿ÈµÃ8áÕğ„2
+e	java:S108˜")Either remove or fill this block of code.(ï­£ÄJ$2a7b5de4-dbd9-4cba-871e-077e4a0a844b
+q
+java:S1128"TRemove this unused import 'org.example.controller.User.UserDashboardFormController'.(·ƒä´8áÕğ„2

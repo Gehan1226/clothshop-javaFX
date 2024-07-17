@@ -1,0 +1,41 @@
+
+ 
+java:S1104"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿ8¥‚¿İ€2J$c8ae44f5-ac92-40af-8cd6-934f3a771ee7
+ 
+java:S1104"XMake currentEmail a static final constant or non-public and provide accessors if needed.(ã£şËøÿÿÿÿ8¥‚¿İ€2J$ef0ee071-5cbc-4df2-aa6d-96cd26a18061
+¦
+java:S1104"^Make txtConfirmPassword a static final constant or non-public and provide accessors if needed.(Ö İıøÿÿÿÿ8¥‚¿İ€2J$6969e70e-5034-4b5b-b89f-16511758e8fe
+™
+java:S1104"VMake txtOTPCode a static final constant or non-public and provide accessors if needed.(ˆºĞ•8¥‚¿İ€2J$034b8e68-7578-4dcc-aab9-778ea0ddb46a
+š
+java:S1104"WMake txtPassword a static final constant or non-public and provide accessors if needed.(Óšº÷8¥‚¿İ€2J$3f186764-ca31-4cc8-891e-5ce02c51a6c6
+œ
+java:S1104"TMake txtEmail a static final constant or non-public and provide accessors if needed.(õÍ¤šûÿÿÿÿ8¥‚¿İ€2J$727a1f17-b122-4e70-ab58-4bfe549db73f
+œ
+java:S1104"YMake btnConfirmOtp a static final constant or non-public and provide accessors if needed.(ôõë8¦‚¿İ€2J$39c37fd9-c0e1-4173-8c70-4a6e1bd2ad55
+
+java:S1104"VMake btnSendOtp a static final constant or non-public and provide accessors if needed.(Ä´¼Æÿÿÿÿÿ8¦‚¿İ€2J$31793ee4-f06c-4d86-9326-042874a7f5a4
+¤
+java:S1104"\Make btnResetPassword a static final constant or non-public and provide accessors if needed.(³âù½ûÿÿÿÿ8¦‚¿İ€2J$b44da34d-2eb2-482f-bc78-2b2b9e1e02af
+z
+java:S1444"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿ8¦‚¿İ€2J$38ac371e-afd5-427e-860f-711054ed027e
+z
+java:S1444"2Make this "public static currentEmail" field final(ã£şËøÿÿÿÿ8¦‚¿İ€2J$0d1c3a2a-5df8-4c08-b6ee-241e1757b5b5
+t
+java:S1172("2Remove this unused method parameter "actionEvent".(¡æôb8Æ‚¿İ€2J$2536afbb-fc09-48eb-928f-125c0f8ce16f
+x
+java:S26961"6Make the enclosing method "static" or remove this set.(–‹„l8Ò‚¿İ€2J$6a2e0e29-1595-4073-8957-d49d7b0d094c
+j	java:S1082")Either remove or fill this block of code.(Éò§+8Ó‚¿İ€2J$5b0eb28b-0d30-4dac-b059-89b515967b70
+z
+java:S11727"2Remove this unused method parameter "actionEvent".(Ùõášşÿÿÿÿ8Ó‚¿İ€2J$aac0f29d-25f4-4f6d-9d6c-603708b36ab3
+y
+java:S2696@"6Make the enclosing method "static" or remove this set.(ÇşíÛ8Ô‚¿İ€2J$e3766111-81f3-4371-b1a1-66039bc27ea5
+j	java:S108A")Either remove or fill this block of code.(Éò§+8Ô‚¿İ€2J$c7a1e15a-81c5-47ee-bb2f-ade211abc779
+u
+java:S1172D"2Remove this unused method parameter "actionEvent".(’ÜÀ”8Õ‚¿İ€2J$6ef7b604-9137-4347-8133-14ed6e8b72dc
+z
+java:S1172T"2Remove this unused method parameter "actionEvent".(•Äµòıÿÿÿÿ8Ø‚¿İ€2J$b454bf19-2d74-4ec1-9684-3764b579c2e3
+z
+java:S1172d"2Remove this unused method parameter "actionEvent".(İÁ•¢úÿÿÿÿ8Ú‚¿İ€2J$fa06f527-7548-4ba0-9e5e-00dc0364675c
+S
+java:S1128"1Remove this unused import 'org.example.dto.User'.(ÂöÍæüÿÿÿÿ8ò«äå€2

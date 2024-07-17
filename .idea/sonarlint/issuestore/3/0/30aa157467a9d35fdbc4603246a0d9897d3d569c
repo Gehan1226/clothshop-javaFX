@@ -1,0 +1,19 @@
+
+ 
+java:S1104"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿ8Ó±Å–ÿ1J$d53ec852-d24e-4f4a-8fe9-0a3ce4fe8e48
+¤
+java:S1104"\Make btnCreateaccount a static final constant or non-public and provide accessors if needed.(†¬şŞûÿÿÿÿ8Ô±Å–ÿ1J$69d12772-7b09-4b66-9d01-a21ec0529938
+—
+java:S1104"TMake btnLogin a static final constant or non-public and provide accessors if needed.(Ş˜ÕÓ8Ô±Å–ÿ1J$bda1a302-a7ab-49c9-849a-dcb5f20eb82a
+z
+java:S1444"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿ8Ô±Å–ÿ1J$2850261b-f376-40da-bba0-04d5f527ff30
+u
+java:S1172"2Remove this unused method parameter "actionEvent".(ï­„8à±Å–ÿ1J$4e1572d3-63cc-4f2e-a50f-2fab7620cd5f
+y
+java:S2696"6Make the enclosing method "static" or remove this set.(ù’¸İ8©×º2J$9ec9c031-f968-4d6e-a298-8b5e5efd8c67
+j	java:S108")Either remove or fill this block of code.(Éò§+8Ğ’œÿ1J$a3e0ce54-b384-4df6-b542-1f246378dd5f
+u
+java:S1172!"2Remove this unused method parameter "actionEvent".(½íŸˆ8‚ä¡ÿÿ1J$b5053e8a-57d8-4503-9649-ad9966d08ffe
+y
+java:S2696*"6Make the enclosing method "static" or remove this set.(ÇşíÛ8¯×º2J$8327b3c3-b030-4567-9bb7-3033f2689009
+j	java:S108+")Either remove or fill this block of code.(Éò§+8…ä¡ÿÿ1J$e3323d0c-a60a-44c3-8ca4-8e19e3d76180

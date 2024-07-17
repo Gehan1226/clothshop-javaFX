@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="connection.url">
+            jdbc:mysql://localhost:3306/clothshop?createDatabaseIfNotExist=true
+        </property>
+        <property name="connection.driver_class">
+            com.mysql.cj.jdbc.Driver
+        </property>
+        <property name="connection.username">root</property>
+        <property name="connection.password">1234</property>
+        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+        <property name="show_sql">true</property>
+        <property name="hibernate.current_session_context_class">thread</property>
+
+        <!-- DB schema will be updated if needed -->
+        <property name="hibernate.hbm2ddl.auto">update</property>
+        <mapping class="org.example.entity.UserEntity" />
+        <mapping class="org.example.entity.EmployeeEntity"/>
+        <mapping class="org.example.entity.ItemEntity"/>
+        <mapping class="org.example.entity.SupplierEntity"/>
+        <mapping class="org.example.entity.OrderEntity"/>
+        <mapping class="org.example.entity.CustomerEntity"/>
+
+    </session-factory>
+</hibernate-configuration>

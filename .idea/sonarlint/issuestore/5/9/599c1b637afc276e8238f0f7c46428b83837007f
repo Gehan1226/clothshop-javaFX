@@ -1,0 +1,43 @@
+
+s
+java:S1104"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿ
+q
+java:S1104"[Make txtEmailAddress a static final constant or non-public and provide accessors if needed.(‰ø„§
+n
+java:S1104"XMake txtPasssword a static final constant or non-public and provide accessors if needed.(áµ¡Ñ
+r
+java:S1104"WMake btnUserType a static final constant or non-public and provide accessors if needed.(íó‘øÿÿÿÿ
+M
+java:S1444"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿ
+D
+java:S5411"(Use a primitive boolean expression here.(çâõëûÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô°äC
+G
+java:S1172!"2Remove this unused method parameter "actionEvent".(¡æôb
+K
+java:S2696)"6Make the enclosing method "static" or remove this set.(–‹„l
+>	java:S108+")Either remove or fill this block of code.(ï­£Ä
+M
+java:S1172/"2Remove this unused method parameter "actionEvent".(Šòğàùÿÿÿÿ
+Q
+java:S26964"6Make the enclosing method "static" or remove this set.(Œ«š–üÿÿÿÿ
+Q
+java:S2696;"6Make the enclosing method "static" or remove this set.(û‘¹‡ÿÿÿÿÿ
+>	java:S108<")Either remove or fill this block of code.(ï­£Ä
+H
+java:S1172E"2Remove this unused method parameter "actionEvent".(‹³æÂ
+K
+java:S2696Q"6Make the enclosing method "static" or remove this set.(¦Ø5
+Q
+java:S2696X"6Make the enclosing method "static" or remove this set.(¬Şœüÿÿÿÿ
+Q
+java:S2696_"6Make the enclosing method "static" or remove this set.(™™á‚øÿÿÿÿ
+L
+java:S2696f"6Make the enclosing method "static" or remove this set.(Ôû³
+H
+java:S1172q"2Remove this unused method parameter "actionEvent".(Ù‡Ú®
+L
+java:S2696z"6Make the enclosing method "static" or remove this set.(ù’¸İ
+>	java:S108{")Either remove or fill this block of code.(ï­£Ä
+H
+java:S1172"2Remove this unused method parameter "actionEvent".(‚¥Š

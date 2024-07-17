@@ -1,0 +1,28 @@
+
+q
+java:S1104"[Make txtEmailAddress a static final constant or non-public and provide accessors if needed.(‰ø„§
+m
+java:S1104"WMake txtPassword a static final constant or non-public and provide accessors if needed.(Óšº÷
+y
+java:S1104"^Make txtConfirmPassword a static final constant or non-public and provide accessors if needed.(Ö Ýýøÿÿÿÿ
+q
+java:S1104"VMake btnIsAdmin a static final constant or non-public and provide accessors if needed.(à¸ÊŽþÿÿÿÿ
+t
+java:S1104"YMake btnIsEmployee a static final constant or non-public and provide accessors if needed.(”í¢¶ûÿÿÿÿ
+s
+java:S1104"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿ
+M
+java:S1444"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô°äC
+G
+java:S1172+"2Remove this unused method parameter "actionEvent".(¡æôb
+K
+java:S26964"6Make the enclosing method "static" or remove this set.(–‹„l
+>	java:S1085")Either remove or fill this block of code.(ï­£Ä
+H
+java:S11729"2Remove this unused method parameter "actionEvent".(Ù‡Ú®
+M
+java:S1172S"2Remove this unused method parameter "actionEvent".(Ùõášþÿÿÿÿ
+L
+java:S2696\"6Make the enclosing method "static" or remove this set.(ÇþíÛ
+=	java:S108]")Either remove or fill this block of code.(Éò§+

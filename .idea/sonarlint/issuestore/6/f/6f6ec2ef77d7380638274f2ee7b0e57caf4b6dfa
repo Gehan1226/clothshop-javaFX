@@ -1,0 +1,86 @@
+
+r
+java:S37401"/Provide the parametrized type for this generic.(‚ÌæØ8Ã…‹š‡2J$6cc9fc20-e007-4b8b-81e4-c1f9353af19e
+q
+java:S37402"/Provide the parametrized type for this generic.(‹ˆ—+8Ä…‹š‡2J$ea49981b-3920-484f-8040-99d18d9a47cf
+r
+java:S37403"/Provide the parametrized type for this generic.(üè‚¨8Ä…‹š‡2J$157d5974-4240-402c-b484-a692ece4bd3c
+ 
+java:S1104)"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿ8Å…‹š‡2J$3d25171a-8dc5-4754-893e-7cc97b283e14
+›
+java:S1104*"SMake isAdmin a static final constant or non-public and provide accessors if needed.(  òûÿÿÿÿ8Å…‹š‡2J$b9eaa790-8ab0-4c81-9267-27c00b35607d
+š
+java:S1104+"WMake txtItemName a static final constant or non-public and provide accessors if needed.(¬Åá…8Å…‹š‡2J$201172b7-7256-4851-80cc-ceb370531252
+¦
+java:S1104,"^Make txtEmailValidation a static final constant or non-public and provide accessors if needed.(îÇÿ©ÿÿÿÿÿ8Æ…‹š‡2J$2f4e3009-03cb-4fe9-8a24-de7bb920e0a9
+­
+java:S1104-"eMake txtMobileNumberValidation a static final constant or non-public and provide accessors if needed.(Š‰°„ûÿÿÿÿ8Æ…‹š‡2J$e31bd206-c76f-49f2-b8f2-a2634bd0bd73
+—
+java:S1104."TMake imgCloth a static final constant or non-public and provide accessors if needed.(å¬ÓŸ8Æ…‹š‡2J$01c6c730-f157-4522-95b9-59ae581467b5
+œ
+java:S1104/"TMake txtPrice a static final constant or non-public and provide accessors if needed.(˜¹•ıÿÿÿÿ8Æ…‹š‡2J$e27b2e38-7352-401c-914b-0e2d783700b1
+š
+java:S11040"RMake txtQTY a static final constant or non-public and provide accessors if needed.(ÍàÉ‡ÿÿÿÿÿ8Æ…‹š‡2J$8ead7e89-57aa-493b-be6d-d315a4469e21
+–
+java:S11041"SMake cmbSize a static final constant or non-public and provide accessors if needed.(‚ÌæØ8Æ…‹š‡2J$0bbfcdee-dc4d-44f1-9085-f7d8a1fc6019
+š
+java:S11042"XMake cmbCategorie a static final constant or non-public and provide accessors if needed.(‹ˆ—+8Æ…‹š‡2J$7ab3a3f3-2092-42a6-81bf-eac0347dc5b0
+œ
+java:S11043"YMake cmbSupplierID a static final constant or non-public and provide accessors if needed.(üè‚¨8Æ…‹š‡2J$eb3ffabc-37aa-4945-9551-183b88d00d6e
+–
+java:S11044"SMake btnSave a static final constant or non-public and provide accessors if needed.(çˆ©Õ8Æ…‹š‡2J$08f6237c-f3c0-47ec-82d8-46c54820ff72
+˜
+java:S11045"UMake txtItemID a static final constant or non-public and provide accessors if needed.(ïá¶¼8Æ…‹š‡2J$58e2a3e5-dfc1-44fa-aca1-46a0abc54f0e
+š
+java:S11046"WMake tblSupplier a static final constant or non-public and provide accessors if needed.(ƒÕ¾8Æ…‹š‡2J$409db9e7-60c4-4f2a-a8ca-756ca5457647
+¡
+java:S11047"YMake colSupplierID a static final constant or non-public and provide accessors if needed.(‘©ÃÌûÿÿÿÿ8Æ…‹š‡2J$7b60ed61-1c69-4b3e-bb48-4f56eb2905e1
+
+java:S11048"[Make colSupplierName a static final constant or non-public and provide accessors if needed.(ûÈÍÉ8Æ…‹š‡2J$2ec3b08f-51d6-4d52-a1de-024b8c57f1d3
+z
+java:S1444)"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿ8Æ…‹š‡2J$b7dacfc7-4785-45c2-a81a-2692d704b35e
+u
+java:S1444*"-Make this "public static isAdmin" field final(  òûÿÿÿÿ8Æ…‹š‡2J$02262d21-5d08-422c-96ca-e08b2aafeffa
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™áÔ\8È…‹š‡2J$7dc1f773-c0be-47ba-b785-9b72ba6010c5
+ª
+java:S1450<"bRemove the "allSupplierIDSNames" field and declare it as a local variable in the relevant methods.(­äÖıÿÿÿÿ8æ…‹š‡2J$e1c4ee6a-9e7b-4cf2-88d1-f8a6ee511497
+z
+java:S1172Q"2Remove this unused method parameter "actionEvent".(»…ä«ùÿÿÿÿ8í…‹š‡2J$bcb492c4-fd93-40a0-a43e-d720b60e43b0
+t
+java:S1172]"2Remove this unused method parameter "actionEvent".(õİŞ78ï…‹š‡2J$273437df-96f4-4547-9dc2-f290c18dbec0
+ƒ
+java:S1858o"@"getUrl" returns a string, there's no need to call "toString()".(°²8ñ…‹š‡2J$78aa8486-443f-48b7-9ec0-104c9d7f56cf
+u
+java:S1172|"2Remove this unused method parameter "actionEvent".(Œ“‘8ò…‹š‡2J$646fde9a-67b9-4add-80cc-7c871a8c9809
+v
+java:S1172…"2Remove this unused method parameter "actionEvent".(áÄ´ü8ó…‹š‡2J$721b6804-2d56-418f-9a27-a091c16670b5
+{
+java:S1172¤"2Remove this unused method parameter "actionEvent".(Ü¨Ó¥øÿÿÿÿ8÷…‹š‡2J$918c5a23-f299-4221-a5cc-d4d3eb6c515e
+v
+java:S1172¿"2Remove this unused method parameter "actionEvent".(Æ¾ôÄ8ú…‹š‡2J$12e87d3f-a840-4823-81e8-2b396d2e6d3d
+
+java:S2696Ê"6Make the enclosing method "static" or remove this set.(¬Şœüÿÿÿÿ8ƒ†‹š‡2J$3bec3d95-499b-4ad5-99e4-09745982caab
+z
+java:S2696Í"6Make the enclosing method "static" or remove this set.(Ôû³8ƒ†‹š‡2J$a8f8bcab-50ad-4b6a-aae4-77398e8ac69a
+l	java:S108Î")Either remove or fill this block of code.(ï­£Ä8„†‹š‡2J$ba8fd328-dd71-406e-b4ca-43bcabf316d4
+u
+java:S1172Ò"2Remove this unused method parameter "actionEvent".(¡æôb8„†‹š‡2J$5e06f777-ee74-4eb6-b110-ecf87379d65f
+y
+java:S2696Û"6Make the enclosing method "static" or remove this set.(–‹„l8…†‹š‡2J$31c3da2d-e6df-4a53-b596-553b06c7428e
+l	java:S108Ü")Either remove or fill this block of code.(ï­£Ä8…†‹š‡2J$2a023c0c-0063-4599-9aff-7ee4f742c1b3
+v
+java:S1172à"2Remove this unused method parameter "actionEvent".(Õ’Ä½8††‹š‡2J$f9d64e30-7632-4874-805a-3120397a0bd6
+
+java:S2696á"6Make the enclosing method "static" or remove this set.(‡ÍíÁùÿÿÿÿ8††‹š‡2J$854e6266-b8af-4335-b3d6-13cc20e9d360
+z
+java:S2696ê"6Make the enclosing method "static" or remove this set.(©™Öï8‡†‹š‡2J$c82f4185-47cc-4d24-933b-73c09c0708e4
+l	java:S108ë")Either remove or fill this block of code.(ï­£Ä8‡†‹š‡2J$ea65b2d6-6794-48d4-8085-48b1e556562e
+{
+java:S1172ï"2Remove this unused method parameter "actionEvent".(şµß®úÿÿÿÿ8‡†‹š‡2J$f3bc7c92-b472-4eda-835f-76289cd10cce
+z
+java:S2696ğ"6Make the enclosing method "static" or remove this set.(¾ëü8‡†‹š‡2J$640d4657-3168-42b9-8de0-5041dec6b3cc
+z
+java:S2696ù"6Make the enclosing method "static" or remove this set.(õ‡è8ˆ†‹š‡2J$7a46fdbe-4c61-476d-bdf2-6704909fc54c
+l	java:S108ú")Either remove or fill this block of code.(ï­£Ä8ˆ†‹š‡2J$72177884-edf8-486c-94fd-bd3798fc09df
+
+java:S1068<"7Remove this unused "allSupplierIDSNames" private field.(­äÖıÿÿÿÿ8‰†‹š‡2J$6cb6cdbc-099a-4a65-ae0f-cbb061233134

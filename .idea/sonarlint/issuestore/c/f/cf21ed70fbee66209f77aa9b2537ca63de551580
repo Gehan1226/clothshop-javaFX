@@ -1,0 +1,14 @@
+
+­
+java:S1192„"dDefine a constant instead of duplicating this literal "Error retrieveAll method in itemDao" 3 times.(¿²ù­úÿÿÿÿ8È–©“‰2J$4d265bae-2f33-40df-b2b3-b22d034b0b3e
+†
+java:S1128">Remove this unused import 'jakarta.persistence.EntityManager'.(·ïŸéúÿÿÿÿ8´þ—‰2J$68414668-b327-4fce-859d-8c2149f90d20
+Š
+java:S1128"BRemove this unused import 'jakarta.persistence.EntityTransaction'.(¡«Ä×üÿÿÿÿ8‘´þ—‰2J$4483c812-620a-48c1-b40f-44f2dc73a88e
+t
+java:S1128"1Remove this unused import 'org.example.dto.Item'.(à›ƒ¡8‘´þ—‰2J$406440cd-7100-4b76-a16d-7f5e7fab2319
+
+java:S1128	">Remove this unused import 'org.example.entity.EmployeeEntity'.(„ù»ã8‘´þ—‰2J$289f984a-930d-42ab-a898-d9b41d769c87
+‚
+java:S1128
+":Remove this unused import 'org.example.entity.ItemEntity'.(Ð×­Øûÿÿÿÿ8‘´þ—‰2J$32ec02db-c40d-4ce6-94aa-4f3fe59aaa0a

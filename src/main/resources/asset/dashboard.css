@@ -1,0 +1,5 @@
+#gridpane{
+    -fx-background-image: url("images/dashboard-bg.jpg");
+    -fx-background-size: cover, auto;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}

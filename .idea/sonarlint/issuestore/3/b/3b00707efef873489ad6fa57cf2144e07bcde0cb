@@ -1,0 +1,56 @@
+
+w
+java:S3740#"/Provide the parametrized type for this generic.(«±ü¢şÿÿÿÿ8æı¿Õƒ2J$386f81a0-6d0b-4e38-bbbf-9af5f2dba12b
+r
+java:S3740$"/Provide the parametrized type for this generic.(‹ü¿©8çı¿Õƒ2J$8bcbbe6d-0f34-4259-999f-e8c9f7120fe5
+›
+java:S1104"XMake txtFirstName a static final constant or non-public and provide accessors if needed.(µõÄú8éı¿Õƒ2J$74aeeb33-a9fc-4128-8b7c-8aa563693b9b
+œ
+java:S1104"TMake txtEmail a static final constant or non-public and provide accessors if needed.(Ø¦½üÿÿÿÿ8éı¿Õƒ2J$eb0b56f9-4df3-430c-a185-71e824892652
+š
+java:S1104"WMake txtLastName a static final constant or non-public and provide accessors if needed.(ÁŠÂ 8éı¿Õƒ2J$344f9d0e-3295-4cc7-a35d-004972d6cb6a
+œ
+java:S1104 "TMake txtNicNo a static final constant or non-public and provide accessors if needed.(ÙÚƒ¢ıÿÿÿÿ8éı¿Õƒ2J$e8b350f0-1de6-4ac8-9126-bdef99678785
+£
+java:S1104!"[Make txtMobileNumber a static final constant or non-public and provide accessors if needed.(İ½¨şÿÿÿÿ8éı¿Õƒ2J$1b0f6e8f-5534-4b78-9db9-77927c42ec40
+—
+java:S1104""TMake txtEmpID a static final constant or non-public and provide accessors if needed.(—“‰˜8éı¿Õƒ2J$70bb10c8-c8fc-40be-8bd0-07b72ae4cda1
+Ÿ
+java:S1104#"WMake cmbProvince a static final constant or non-public and provide accessors if needed.(«±ü¢şÿÿÿÿ8éı¿Õƒ2J$8a94f8d6-14bc-4ef5-874a-a64b1eab6e16
+š
+java:S1104$"WMake cmbDistrict a static final constant or non-public and provide accessors if needed.(‹ü¿©8éı¿Õƒ2J$170c5028-9af3-4199-9a0c-e03832bedee4
+¡
+java:S1104%"YMake txtEmailValid a static final constant or non-public and provide accessors if needed.(éé¯ øÿÿÿÿ8êı¿Õƒ2J$4202c14b-48a9-424c-aadd-cdb5598506cc
+¨
+java:S1104&"`Make txtmobileNumberValid a static final constant or non-public and provide accessors if needed.(÷üÕûÿÿÿÿ8êı¿Õƒ2J$66c13c4b-ff8e-42a7-ab84-84bc76aa4f95
+–
+java:S1104'"SMake btnSave a static final constant or non-public and provide accessors if needed.(çˆ©Õ8êı¿Õƒ2J$02a01ec9-6986-4487-8a68-faa1a2322789
+ 
+java:S1104,"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿ8êı¿Õƒ2J$e97b1b04-419d-42b9-96ce-4befe02a716b
+z
+java:S1444,"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿ8êı¿Õƒ2J$fe7ed2ac-742f-4d3b-9455-e28fc02e2f56
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ÿá·8×ßÊğ„2J$0b3d682c-6ba0-4576-9f40-f0b64c654333
+Ê
+java:S1186È"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­‘–ûÿÿÿÿ8»›ëıƒ2J$5155f36c-9be6-48e6-902f-5432603c0223
+Ê
+java:S1186Ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(â¿Ÿşÿÿÿÿ8»›ëıƒ2J$0c08ebef-a229-4ea6-8187-26be41d973e0
+t
+java:S1172="2Remove this unused method parameter "actionEvent".(¡æôb8‹ş¿Õƒ2J$5862e1b3-196e-4a1a-8ecd-7fc7b5344361
+x
+java:S2696F"6Make the enclosing method "static" or remove this set.(–‹„l8ÅÛˆØƒ2J$8e5f09f6-5281-4578-8263-e60e50930dd1
+k	java:S108G")Either remove or fill this block of code.(ï­£Ä8–ş¿Õƒ2J$466854df-3b46-4e1c-bbd4-4812815ba772
+t
+java:S1172J"2Remove this unused method parameter "actionEvent".(õİŞ78—ş¿Õƒ2J$6eecf731-fc39-4b92-8831-d8484ae7e08e
+u
+java:S1172s"2Remove this unused method parameter "actionEvent".(Œ“‘8›ş¿Õƒ2J$f16df9c3-52f5-4bd7-b0be-93580d63859c
+v
+java:S1172"2Remove this unused method parameter "actionEvent".(Æ¾ôÄ8ş¿Õƒ2J$2e989fe5-9a35-4c0e-bfe0-d74d102d3511
+
+java:S2696™"6Make the enclosing method "static" or remove this set.(¬Şœüÿÿÿÿ8ÖÛˆØƒ2J$f924c9f6-491d-4449-8626-7317b2347190
+l	java:S108š")Either remove or fill this block of code.(ï­£Ä8Ÿş¿Õƒ2J$85095e96-5745-4f5f-a8db-e39cce15ed33
+v
+java:S1172"2Remove this unused method parameter "actionEvent".(áÄ´ü8Ÿş¿Õƒ2J$2d206159-3400-4e3d-aaf1-fc9131c9ecfd
+s
+java:S1172³"/Remove this unused method parameter "keyEvent".(İ‡“8¢ş¿Õƒ2J$785e7f66-30d2-45eb-bcb6-aa28e5dc46db
+x
+java:S1172¾"/Remove this unused method parameter "keyEvent".(¤íòûÿÿÿÿ8£ş¿Õƒ2J$6c0209ee-2b1e-4509-afa2-e5d9f5531c4e

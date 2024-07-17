@@ -1,0 +1,65 @@
+
+r
+java:S3740*"/Provide the parametrized type for this generic.(‘çé¬8ÃÇ®…2J$d1b13e3a-f719-45e0-8675-6eab3964e26e
+ 
+java:S1104#"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿ8Ì±˜—„2J$22e67463-fa3d-4717-9ef7-067ce9fa3d0a
+›
+java:S1104$"SMake isAdmin a static final constant or non-public and provide accessors if needed.(  òûÿÿÿÿ8Í±˜—„2J$e52657e2-5636-462c-92b2-03b3d14b8970
+œ
+java:S1104%"YMake txtFisrstName a static final constant or non-public and provide accessors if needed.(ÜŸ˜«8Í±˜—„2J$74fdc9ba-48d3-4485-9bf9-1f7f22fec3c5
+¦
+java:S1104&"^Make txtEmailValidation a static final constant or non-public and provide accessors if needed.(îÇÿ©ÿÿÿÿÿ8Í±˜—„2J$d1868be0-f9a9-4d64-a16d-71dbddd168a3
+­
+java:S1104'"eMake txtMobileNumberValidation a static final constant or non-public and provide accessors if needed.(Š‰°„ûÿÿÿÿ8Í±˜—„2J$3833d97a-61b5-466e-82c1-a30b55b756e6
+š
+java:S1104("WMake txtLastName a static final constant or non-public and provide accessors if needed.(ÁŠÂ 8Í±˜—„2J$f368cf60-c5cc-48b8-8eda-3e281417ee88
+™
+java:S1104)"VMake txtCompany a static final constant or non-public and provide accessors if needed.(Úù÷ê8Í±˜—„2J$42da8530-7c5f-438b-aba8-7ea5798ecb5c
+™
+java:S1104*"VMake cmbItemIDS a static final constant or non-public and provide accessors if needed.(‘çé¬8Í±˜—„2J$6ac8bfb5-0131-4c05-9a10-408f027a3c87
+œ
+java:S1104+"TMake txtEmail a static final constant or non-public and provide accessors if needed.(Ø¦½üÿÿÿÿ8Í±˜—„2J$da1de93f-629d-40b4-867c-6327e56a4fc3
+£
+java:S1104,"[Make txtMobileNumber a static final constant or non-public and provide accessors if needed.(İ½¨şÿÿÿÿ8Í±˜—„2J$de335aa7-a188-4bd4-9bec-91d7d5b6f9ec
+œ
+java:S1104-"YMake txtSupplierID a static final constant or non-public and provide accessors if needed.(’èŒã8Í±˜—„2J$48e7049a-0152-4754-a7cd-a1798d5aaf91
+–
+java:S1104."SMake tblItem a static final constant or non-public and provide accessors if needed.(… À8Í±˜—„2J$6c14b802-fca6-4db2-a6b2-8ee006fbbf84
+
+java:S1104/"UMake colItemID a static final constant or non-public and provide accessors if needed.(èÛıÿÿÿÿ8Í±˜—„2J$86ef0022-9170-40ee-a1d9-9617b0057c2a
+Ÿ
+java:S11040"WMake colItemName a static final constant or non-public and provide accessors if needed.(†ÆÒËúÿÿÿÿ8Í±˜—„2J$82d9862a-5b1e-4b2e-bdeb-97db06162939
+z
+java:S1444#"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿ8Î±˜—„2J$5cb427ea-c74f-43d8-9610-f3a0e9506ac7
+u
+java:S1444$"-Make this "public static isAdmin" field final(  òûÿÿÿÿ8Î±˜—„2J$99547a32-ed7c-4637-aa55-e101c644eb29
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙÔœÑøÿÿÿÿ8óéÜğ„2J$c38c370f-1774-46a7-b4ef-89212f49b034
+z
+java:S1172A"2Remove this unused method parameter "actionEvent".(»…ä«ùÿÿÿÿ8ıÇ®…2J$62b5a200-3b69-43d8-91d4-6efa17a106df
+t
+java:S1172M"2Remove this unused method parameter "actionEvent".(õİŞ78ÿÇ®…2J$e80c6582-1e85-42a8-8ea0-ecfad85b6855
+u
+java:S1172i"2Remove this unused method parameter "actionEvent".(Œ“‘8‚È®…2J$a73260e9-a320-477e-95a9-d1debc3da185
+u
+java:S1172"2Remove this unused method parameter "actionEvent".(áÄ´ü8„È®…2J$3f34101c-02c2-43b4-a128-d926fa881e7a
+v
+java:S1172™"2Remove this unused method parameter "actionEvent".(Æ¾ôÄ8‡È®…2J$2ca8d074-5e8b-4819-a420-fbcbfcdce7d2
+
+java:S2696¤"6Make the enclosing method "static" or remove this set.(¬Şœüÿÿÿÿ8”È®…2J$72530b69-aadc-489a-a64d-68eaa02e653c
+z
+java:S2696§"6Make the enclosing method "static" or remove this set.(Ôû³8”È®…2J$8fcdf180-f604-4afb-8c76-fef6e9faa46a
+l	java:S108©")Either remove or fill this block of code.(ï­£Ä8ç›§ï„2J$73383ef8-2a7a-48ba-b0df-d5d308c9cce4
+u
+java:S1172¬"2Remove this unused method parameter "actionEvent".(¡æôb8•È®…2J$6334ec07-36c3-452a-b79a-c51e2926cf45
+y
+java:S2696µ"6Make the enclosing method "static" or remove this set.(–‹„l8—È®…2J$5583d3f6-5e3c-4af9-a05c-584773486411
+l	java:S108¶")Either remove or fill this block of code.(ï­£Ä8ê›§ï„2J$feb0ac48-d4df-4790-a3ad-5df3e561ab27
+v
+java:S1172º"2Remove this unused method parameter "actionEvent".(Õ’Ä½8˜È®…2J$dcd7788e-ee9b-41f0-9eca-de33ca78224d
+
+java:S2696»"6Make the enclosing method "static" or remove this set.(‡ÍíÁùÿÿÿÿ8˜È®…2J$c9a666a6-bdae-4375-baa1-f95ba8e71f91
+z
+java:S2696Ä"6Make the enclosing method "static" or remove this set.(©™Öï8™È®…2J$1b4ff09e-f0ce-4cd7-b6ba-13856479f194
+l	java:S108Å")Either remove or fill this block of code.(ï­£Ä8ì›§ï„2J$4e1af3ad-d5cf-4d02-bdb2-4f12e531a6eb
+—
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(íó¦Ï8šÈ®…2J$615d7621-82e7-40c4-b607-70387293bd26

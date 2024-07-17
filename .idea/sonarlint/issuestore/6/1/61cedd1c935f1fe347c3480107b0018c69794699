@@ -1,0 +1,61 @@
+
+ 
+java:S1104!"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿ8¼Ÿé¤†2J$3fb526cf-be22-4762-bf02-5c498c83e56e
+›
+java:S1104""SMake isAdmin a static final constant or non-public and provide accessors if needed.(  òûÿÿÿÿ8¼Ÿé¤†2J$877c1e7e-cbaf-462a-9942-260734f1d97f
+£
+java:S1104#"[Make txtPayementType a static final constant or non-public and provide accessors if needed.(•ã…ıüÿÿÿÿ8¼Ÿé¤†2J$44a1e949-aedd-4a90-8f0b-d0768d8b4ad2
+ 
+java:S1104$"XMake txtOrderDate a static final constant or non-public and provide accessors if needed.(ú¨âœùÿÿÿÿ8¼Ÿé¤†2J$7b5df4a7-b2c9-41d9-8e96-f4a233c77765
+
+java:S1104%"[Make txtCustomername a static final constant or non-public and provide accessors if needed.(œş¨ÿ8¼Ÿé¤†2J$b9ed2575-f05e-4800-8abb-163510f443d1
+Ÿ
+java:S1104&"\Make txtCustomerEmail a static final constant or non-public and provide accessors if needed.(ÆÛ¥Ã8¼Ÿé¤†2J$710f4467-0456-4089-b479-83eac18cc0d9
+«
+java:S1104'"cMake txtCustomerMobileNumber a static final constant or non-public and provide accessors if needed.(ï²Š“øÿÿÿÿ8¼Ÿé¤†2J$acd2b5ba-4073-41d2-b93a-f7cc52e980fd
+›
+java:S1104("XMake txtFullPrice a static final constant or non-public and provide accessors if needed.(Îá•¿8¼Ÿé¤†2J$75a1c4fd-22c4-4520-a322-73f3cb17e441
+™
+java:S1104)"VMake txtOrderID a static final constant or non-public and provide accessors if needed.(‡£ÏÂ8¼Ÿé¤†2J$958d06f9-cc46-4c75-b393-97befd87c41a
+–
+java:S1104*"SMake tblItem a static final constant or non-public and provide accessors if needed.(… À8¼Ÿé¤†2J$762c6345-071b-4ef0-8241-2f8ffd43b769
+
+java:S1104+"UMake colItemID a static final constant or non-public and provide accessors if needed.(èÛıÿÿÿÿ8¼Ÿé¤†2J$30895a03-39d3-4fb0-8fac-58cd649909d5
+Ÿ
+java:S1104,"WMake colItemName a static final constant or non-public and provide accessors if needed.(†ÆÒËúÿÿÿÿ8¼Ÿé¤†2J$e07d41c0-1745-4ec5-b23e-f39e77a9cbdf
+›
+java:S1104-"SMake colSize a static final constant or non-public and provide accessors if needed.(ÑˆÀäıÿÿÿÿ8¼Ÿé¤†2J$ba835071-0df0-4eb1-8a15-9420ae4bbe6d
+Ÿ
+java:S1104."WMake colQuantity a static final constant or non-public and provide accessors if needed.(‹ –ÿÿÿÿÿ8¼Ÿé¤†2J$b6a06809-682d-4bbe-b4a2-de98cbae6e36
+œ
+java:S1104/"TMake colPrice a static final constant or non-public and provide accessors if needed.(¨¿ûûÿÿÿÿ8¼Ÿé¤†2J$686de322-c22a-4f2c-be7f-2e945d19b27b
+
+java:S11040"ZMake btnCancelOrder a static final constant or non-public and provide accessors if needed.(˜â»İ8¼Ÿé¤†2J$1d002e7a-1815-4769-978f-0cfaadc9f6a6
+•
+java:S11041"SMake txtDate a static final constant or non-public and provide accessors if needed.(”É£88¼Ÿé¤†2J$ca05bb02-9e6c-45f5-83d9-1a53194680f3
+z
+java:S1444!"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿ8½Ÿé¤†2J$7b5e3bdd-ddbd-4eed-8ee4-e8618c5f7dd4
+u
+java:S1444""-Make this "public static isAdmin" field final(  òûÿÿÿÿ8½Ÿé¤†2J$752add1f-484a-4a4c-80ec-4a637ec27a70
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úÿ¯Ãÿÿÿÿÿ8¾Ÿé¤†2J$ed4731dc-b880-4a0f-8f5b-f2cd89963fd4
+z
+java:S1172?"2Remove this unused method parameter "actionEvent".(»Ó—ğøÿÿÿÿ8ãŸé¤†2J$b3013188-b911-44bd-ad5f-b4edab2ee76f
+t
+java:S1172H"2Remove this unused method parameter "actionEvent".(Õ“ÙU8åŸé¤†2J$89c73be6-ea04-4131-ab26-2de602e8abff
+t
+java:S1172m"2Remove this unused method parameter "actionEvent".(¡æôb8èŸé¤†2J$f031cf3b-5529-44c6-a2ec-e9ea6d45dc38
+x
+java:S2696v"6Make the enclosing method "static" or remove this set.(–‹„l8ñŸé¤†2J$c5631212-38c5-4181-9027-6a000bf0b70c
+k	java:S108w")Either remove or fill this block of code.(ï­£Ä8õŸé¤†2J$aee29069-f1ba-4b85-9667-fc8e538d839f
+v
+java:S1172…"2Remove this unused method parameter "actionEvent".(Æ¾ôÄ8ôŸé¤†2J$5e7d2695-91b9-4e6c-8098-b6b27dbe8bd8
+
+java:S2696"6Make the enclosing method "static" or remove this set.(¬Şœüÿÿÿÿ8õŸé¤†2J$ff259781-05c9-4d8e-b114-1d6a4a70b4da
+z
+java:S2696“"6Make the enclosing method "static" or remove this set.(Ôû³8õŸé¤†2J$18063292-d8ce-41b4-a2f1-a1abbc9d74a1
+l	java:S108”")Either remove or fill this block of code.(ï­£Ä8öŸé¤†2J$5ccb8a3c-e4b3-48e1-9f9a-8cf4ae8cb8b4
+{
+java:S1172˜"2Remove this unused method parameter "actionEvent".(—²Üğøÿÿÿÿ8õŸé¤†2J$6b0f5d12-ffdc-45f8-ad9e-130e0ead6601
+z
+java:S2696¢"6Make the enclosing method "static" or remove this set.(Ç™ü’8öŸé¤†2J$bea5a97f-7670-4e00-9480-d317565d4ee2
+l	java:S108£")Either remove or fill this block of code.(ï­£Ä8½Ëé¤†2J$0ae86e20-ca7d-4db9-a3df-de0ca4f7c848

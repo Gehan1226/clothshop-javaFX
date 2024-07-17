@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.21.0.final using JasperReports Library version 6.21.0-4f56c4f36cd19e17675219a9ac4692d5f0f13b06  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="MonthlySalesReport" pageWidth="595" pageHeight="842" whenNoDataType="NoPages" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="e0292bfb-2f7e-4a5d-a1f3-98423389a8b2">
+    <parameter name="currentYear" class="java.lang.String"/>
+    <field name="month" class="java.lang.String"/>
+    <field name="total" class="java.lang.Double"/>
+    <title>
+        <band height="50" splitType="Stretch">
+            <textField>
+                <reportElement x="0" y="0" width="555" height="30" uuid="10acb940-e05c-47fc-b319-dace124ce2a1"/>
+                <textElement textAlignment="Center">
+                    <font size="18" isBold="true"/>
+                </textElement>
+                <textFieldExpression><![CDATA[$P{currentYear} + " Monthly Sales Report"]]></textFieldExpression>
+            </textField>
+        </band>
+    </title>
+    <columnHeader>
+        <band height="20" splitType="Stretch">
+            <staticText>
+                <reportElement x="0" y="0" width="279" height="20" uuid="0d8e3982-4cdc-4d54-a34b-bb7e4fa2d3ad"/>
+                <box>
+                    <pen lineWidth="1.0" lineStyle="Solid" lineColor="#0576FF"/>
+                </box>
+                <textElement textAlignment="Center">
+                    <font isBold="true"/>
+                </textElement>
+                <text><![CDATA[Month]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="280" y="0" width="275" height="20" uuid="32f7f35d-c120-493e-b27a-443e013ad078"/>
+                <box>
+                    <pen lineWidth="1.0" lineStyle="Solid" lineColor="#0576FF"/>
+                </box>
+                <textElement textAlignment="Center">
+                    <font isBold="true"/>
+                </textElement>
+                <text><![CDATA[Total Sales ]]></text>
+            </staticText>
+        </band>
+    </columnHeader>
+    <detail>
+        <band height="20" splitType="Stretch">
+            <textField>
+                <reportElement x="0" y="0" width="280" height="20" uuid="b87ab73f-cc05-4058-99bf-2c8a0eb9672a"/>
+                <box>
+                    <pen lineWidth="1.0" lineStyle="Dotted" lineColor="#000000"/>
+                </box>
+                <textElement textAlignment="Center"/>
+                <textFieldExpression><![CDATA[$F{month}]]></textFieldExpression>
+            </textField>
+            <textField pattern="##0.00">
+                <reportElement x="280" y="0" width="275" height="20" uuid="4ff4202d-7067-4702-aa19-adbf9c30a7e5"/>
+                <box>
+                    <pen lineWidth="1.0" lineStyle="Dotted" lineColor="#000000"/>
+                </box>
+                <textElement textAlignment="Center"/>
+                <textFieldExpression><![CDATA["Rs. " + String.format("%.2f", $F{total})]]></textFieldExpression>
+            </textField>
+        </band>
+    </detail>
+    <pageFooter>
+        <band height="20" splitType="Stretch"/>
+    </pageFooter>
+    <summary>
+        <band height="400">
+            <property name="com.jaspersoft.studio.unit.height" value="px"/>
+            <pieChart>
+                <chart evaluationTime="Report">
+                    <reportElement x="0" y="0" width="555" height="400" uuid="b2c8ca8b-b5ad-4394-9103-fedf677f4845"/>
+                    <chartTitle/>
+                    <chartSubtitle/>
+                    <chartLegend/>
+                </chart>
+                <pieDataset>
+                    <keyExpression><![CDATA[$F{month}]]></keyExpression>
+                    <valueExpression><![CDATA[$F{total}]]></valueExpression>
+                </pieDataset>
+                <piePlot>
+                    <plot/>
+                    <itemLabel/>
+                </piePlot>
+            </pieChart>
+        </band>
+    </summary>
+</jasperReport>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<GridPane id="gridpane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="569.0" prefWidth="978.0" stylesheets="@../asset/loginpage&amp;createaccount%20.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.controller.Employee.UserRegistrationFormController">
+   <columnConstraints>
+      <ColumnConstraints hgrow="SOMETIMES" maxWidth="278.199951171875" minWidth="10.0" prefWidth="177.6000274658203" />
+      <ColumnConstraints hgrow="SOMETIMES" maxWidth="278.199951171875" minWidth="10.0" prefWidth="130.60001220703126" />
+      <ColumnConstraints hgrow="SOMETIMES" maxWidth="680.7999633789063" minWidth="10.0" prefWidth="419.19999999999993" />
+      <ColumnConstraints hgrow="SOMETIMES" maxWidth="546.0000213623048" minWidth="10.0" prefWidth="199.99995117187495" />
+      <ColumnConstraints hgrow="SOMETIMES" maxWidth="99.2000732421875" minWidth="10.0" prefWidth="36.800048828125" />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints maxHeight="100.79999084472657" minHeight="10.0" prefHeight="94.39999694824219" vgrow="SOMETIMES" />
+      <RowConstraints maxHeight="86.39999389648438" minHeight="10.0" prefHeight="64.6" vgrow="SOMETIMES" />
+      <RowConstraints maxHeight="356.9999633789063" minHeight="10.0" prefHeight="276.7999755859375" vgrow="SOMETIMES" />
+      <RowConstraints maxHeight="277.4000305175781" minHeight="0.0" prefHeight="43.20002441406251" vgrow="SOMETIMES" />
+      <RowConstraints maxHeight="160.59998168945316" minHeight="10.0" prefHeight="18.199975585937523" vgrow="SOMETIMES" />
+   </rowConstraints>
+   <children>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="2">
+         <children>
+            <Text layoutX="96.0" layoutY="54.0" strokeType="OUTSIDE" strokeWidth="0.0" text="User Registration Form" wrappingWidth="358.39999999999986">
+               <font>
+                  <Font size="34.0" />
+               </font>
+            </Text>
+            <ImageView fitHeight="60.0" fitWidth="66.0" layoutX="38.0" layoutY="19.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../asset/images/203-2035339_register-user-register-online-icon-png-removebg-preview.png" />
+               </image>
+            </ImageView>
+            <Separator layoutX="56.0" layoutY="68.0" prefHeight="0.0" prefWidth="381.0" style="-fx-background-color: black;" />
+         </children>
+      </AnchorPane>
+      <AnchorPane prefHeight="232.0" prefWidth="406.0" GridPane.columnIndex="2" GridPane.rowIndex="2">
+         <children>
+            <JFXTextField fx:id="txtFirstName" layoutX="34.0" prefHeight="34.0" prefWidth="342.0" promptText="First Name" />
+            <JFXComboBox fx:id="cmbProvince" layoutX="34.0" layoutY="246.0" prefHeight="26.0" prefWidth="138.0" promptText="Select Province" />
+            <JFXComboBox fx:id="cmbDistrict" layoutX="225.0" layoutY="246.0" prefHeight="26.0" prefWidth="153.0" promptText="Select District" />
+            <JFXTextField fx:id="txtEmail" layoutX="34.0" layoutY="99.0" onKeyReleased="#txtEmailOnKeyReleased" prefHeight="34.0" prefWidth="342.0" promptText="Email " />
+            <Text fx:id="txtEmailValidation" fill="#ef0c0c" layoutX="269.0" layoutY="113.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Wrong email pattern " visible="false" wrappingWidth="138.4000000000001">
+               <font>
+                  <Font name="System Bold" size="13.0" />
+               </font>
+            </Text>
+            <Text fx:id="txtMobileNumberValidation" fill="#e40a0a" layoutX="262.0" layoutY="200.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Wrong Mobile Number" visible="false" wrappingWidth="152.834228515625">
+               <font>
+                  <Font name="System Bold Italic" size="13.0" />
+               </font>
+            </Text>
+            <JFXTextField fx:id="txtLastName" layoutX="34.0" layoutY="49.0" prefHeight="34.0" prefWidth="342.0" promptText="Last Name" />
+            <JFXTextField fx:id="txtNicNo" layoutX="34.0" layoutY="146.0" prefHeight="34.0" prefWidth="342.0" promptText="Nic Number" />
+            <JFXTextField fx:id="txtMobileNumber" layoutX="34.0" layoutY="195.0" onKeyReleased="#txtMobileNoOnKeyReleased" prefHeight="34.0" prefWidth="342.0" promptText="Mobile Number" />
+         </children>
+      </AnchorPane>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="3">
+         <children>
+            <JFXButton fx:id="btnResetPassword" buttonType="RAISED" layoutX="94.0" layoutY="14.0" onAction="#btnRegisterOnAction" prefHeight="43.0" prefWidth="187.0" style="-fx-background-color: #0D7377;" text="📌 Register" textFill="#f2eeee">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="1">
+         <children>
+            <Text layoutX="83.0" layoutY="37.0" strokeType="OUTSIDE" strokeWidth="0.0" text="User Id :">
+               <font>
+                  <Font name="System Bold" size="17.0" />
+               </font>
+            </Text>
+            <Text fx:id="txtEmpID" layoutX="159.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="#0001" wrappingWidth="152.834228515625">
+               <font>
+                  <Font name="System Bold" size="17.0" />
+               </font>
+            </Text>
+         </children>
+      </AnchorPane>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #222831;" GridPane.rowIndex="2">
+         <children>
+            <JFXButton buttonType="RAISED" layoutX="15.0" layoutY="12.0" onAction="#btnEmployeeReportOnAction" prefHeight="43.0" prefWidth="160.0" style="-fx-background-color: #393E46;" stylesheets="@../asset/loginpage&amp;createaccount%20.css" text="Print Employee Report" textFill="#f2eeee">
+               <font>
+                  <Font name="System Bold" size="13.0" />
+               </font>
+            </JFXButton>
+            <JFXButton buttonType="RAISED" layoutX="15.0" layoutY="66.0" onAction="#btnAddProductOnAction" prefHeight="43.0" prefWidth="160.0" style="-fx-background-color: #393E46;" stylesheets="@../asset/loginpage&amp;createaccount%20.css" text="Add Product" textFill="#f2eeee">
+               <font>
+                  <Font name="System Bold" size="13.0" />
+               </font>
+            </JFXButton>
+            <JFXButton buttonType="RAISED" layoutX="15.0" layoutY="118.0" onAction="#btnAddSupplierOnAction" prefHeight="43.0" prefWidth="160.0" style="-fx-background-color: #393E46;" stylesheets="@../asset/loginpage&amp;createaccount%20.css" text="Add Supplier" textFill="#f2eeee">
+               <font>
+                  <Font name="System Bold" size="13.0" />
+               </font>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <AnchorPane prefHeight="293.0" prefWidth="176.0" GridPane.columnIndex="3" GridPane.rowIndex="2">
+         <children>
+            <ImageView fitHeight="307.0" fitWidth="332.0" layoutX="-54.0" layoutY="-48.0" pickOnBounds="true" preserveRatio="true" styleClass="my-image-view">
+               <image>
+                  <Image url="@../asset/images/man-delivery-service-job-objects-equipment-png.png" />
+               </image>
+            </ImageView>
+         </children>
+      </AnchorPane>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #222831;">
+         <children>
+            <JFXButton buttonType="RAISED" layoutX="14.0" layoutY="27.0" onAction="#btnMainmenuOnAction" prefHeight="43.0" prefWidth="160.0" style="-fx-background-color: #3572EF;" stylesheets="@../asset/loginpage&amp;createaccount%20.css" text="🏠 Main Menu" textFill="#f2eeee">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #222831;" GridPane.rowIndex="1">
+         <children>
+            <JFXButton buttonType="RAISED" layoutX="14.0" layoutY="-22.0" onAction="#btnDashboardOnAction" prefHeight="43.0" prefWidth="160.0" style="-fx-background-color: #3572EF;" stylesheets="@../asset/loginpage&amp;createaccount%20.css" text="📅  Dashboard" textFill="#f2eeee">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </JFXButton>
+            <JFXButton buttonType="RAISED" layoutX="16.0" layoutY="44.0" onAction="#btnUpdateRemoveOnAction" prefHeight="43.0" prefWidth="160.0" style="-fx-background-color: #393E46;" stylesheets="@../asset/loginpage&amp;createaccount%20.css" text="Update or remove User" textFill="#f2eeee">
+               <font>
+                  <Font name="System Bold" size="13.0" />
+               </font>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #222831;" GridPane.rowIndex="3" />
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #222831;" GridPane.rowIndex="4">
+         <children>
+            <ImageView fitHeight="307.0" fitWidth="173.0" layoutX="8.0" layoutY="-71.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../asset/images/Untitled__1_-removebg-preview.png" />
+               </image>
+            </ImageView>
+         </children>
+      </AnchorPane>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="4" GridPane.rowIndex="4">
+         <children>
+            <Text layoutX="-119.0" layoutY="20.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Date :">
+               <font>
+                  <Font name="System Bold Italic" size="14.0" />
+               </font>
+            </Text>
+            <Text fx:id="txtCurrentDate" layoutX="-72.0" layoutY="21.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2022.07.12" wrappingWidth="146.40000000000003">
+               <font>
+                  <Font name="System Bold Italic" size="14.0" />
+               </font>
+            </Text>
+         </children>
+      </AnchorPane>
+   </children>
+</GridPane>

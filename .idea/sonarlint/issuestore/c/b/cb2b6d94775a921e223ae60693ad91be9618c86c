@@ -1,0 +1,20 @@
+
+
+java:S11922"LDefine a constant instead of duplicating this literal "label-style" 3 times.(®¸§ç8Å´ãŒˆ2J$e6c9a6c3-3bf5-4243-90ec-b4a5b21d2804
+—
+java:S1104"TMake gridpane a static final constant or non-public and provide accessors if needed.(’ÃµÉ8ÏÅŒˆ2J$624f17c5-6f3e-470e-975b-5d2aba8a70f9
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™áÔ\8ÑÅŒˆ2J$88753df7-f2e2-4cad-b204-2720899f6a29
+Ã
+java:S1186E"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡æôb8ã´ãŒˆ2J$228186f0-8dc3-48f4-88aa-99279dc03c03
+Ä
+java:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Æ¾ôÄ8ã´ãŒˆ2J$68b15d2d-e386-44ea-90c2-72a1ea234534
+É
+java:S1186K"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úË»‚ùÿÿÿÿ8ã´ãŒˆ2J$20b4bd58-1e03-46f1-9e84-4a7f0c7f956e
+Ä
+java:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İôÕ8ã´ãŒˆ2J$89fb4345-5c54-429c-a9e7-c0981ecb2c69
+Ã
+java:S1186Q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾½œB8ã´ãŒˆ2J$e396434c-7de0-48a5-8bf3-a2c02ad2152b
+}
+java:S1128":Remove this unused import 'javafx.scene.layout.StackPane'.(™÷èò8Ô¿íàˆ2J$350c4870-626d-47e1-b308-7956afb390cb
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ö¿íàˆ2J$dfc3aa4d-42bb-4055-b4df-8a3fb2cf41f7

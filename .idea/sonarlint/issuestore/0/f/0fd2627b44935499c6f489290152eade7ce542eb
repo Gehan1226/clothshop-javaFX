@@ -1,0 +1,65 @@
+
+L
+java:S3740)"/Provide the parametrized type for this generic.(‚ÌæØ8Àøù™‡2
+L
+java:S3740*"/Provide the parametrized type for this generic.(üè‚¨8Áøù™‡2
+K
+java:S37400"/Provide the parametrized type for this generic.(‹ˆ—+8Áøù™‡2
+z
+java:S1104$"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿ8Âøù™‡2
+u
+java:S1104%"SMake isAdmin a static final constant or non-public and provide accessors if needed.(  òûÿÿÿÿ8Ãøù™‡2
+t
+java:S1104&"WMake txtItemName a static final constant or non-public and provide accessors if needed.(¬Åá…8Ãøù™‡2
+t
+java:S1104'"RMake txtQTY a static final constant or non-public and provide accessors if needed.(ÍàÉ‡ÿÿÿÿÿ8Ãøù™‡2
+v
+java:S1104("TMake txtPrice a static final constant or non-public and provide accessors if needed.(˜¹•ıÿÿÿÿ8Ãøù™‡2
+p
+java:S1104)"SMake cmbSize a static final constant or non-public and provide accessors if needed.(‚ÌæØ8Ãøù™‡2
+v
+java:S1104*"YMake cmbSupplierID a static final constant or non-public and provide accessors if needed.(üè‚¨8Ãøù™‡2
+w
+java:S1104+"UMake txtItemID a static final constant or non-public and provide accessors if needed.(§’çôùÿÿÿÿ8Ãøù™‡2
+p
+java:S1104,"SMake btnSave a static final constant or non-public and provide accessors if needed.(çˆ©Õ8Ãøù™‡2
+u
+java:S1104-"XMake tblSuppliers a static final constant or non-public and provide accessors if needed.(×Ü¾é8Ãøù™‡2
+{
+java:S1104."YMake colSupplierID a static final constant or non-public and provide accessors if needed.(‘©ÃÌûÿÿÿÿ8Ãøù™‡2
+x
+java:S1104/"[Make colSupplierName a static final constant or non-public and provide accessors if needed.(ûÈÍÉ8Ãøù™‡2
+t
+java:S11040"XMake cmbCategorie a static final constant or non-public and provide accessors if needed.(‹ˆ—+8Ãøù™‡2
+T
+java:S1444$"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿ8Äøù™‡2
+O
+java:S1444%"-Make this "public static isAdmin" field final(  òûÿÿÿÿ8Äøù™‡2
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™áÔ\8Æøù™‡2
+N
+java:S1172Z"2Remove this unused method parameter "actionEvent".(õİŞ78éøù™‡2
+U
+java:S1172„"2Remove this unused method parameter "actionEvent".(»…ä«ùÿÿÿÿ8ìøù™‡2
+P
+java:S1172"2Remove this unused method parameter "actionEvent".(ŠÜÎ£8íøù™‡2
+U
+java:S1172–"2Remove this unused method parameter "actionEvent".(ôÓéùÿÿÿÿ8îøù™‡2
+O
+java:S1172¡"2Remove this unused method parameter "actionEvent".(¡æôb8ğøù™‡2
+S
+java:S2696ª"6Make the enclosing method "static" or remove this set.(–‹„l8ùøù™‡2
+F	java:S108«")Either remove or fill this block of code.(ï­£Ä8úøù™‡2
+P
+java:S1172¯"2Remove this unused method parameter "actionEvent".(Æ¾ôÄ8úøù™‡2
+Y
+java:S2696º"6Make the enclosing method "static" or remove this set.(¬Şœüÿÿÿÿ8ûøù™‡2
+T
+java:S2696½"6Make the enclosing method "static" or remove this set.(Ôû³8ûøù™‡2
+F	java:S108¿")Either remove or fill this block of code.(ï­£Ä8üøù™‡2
+P
+java:S1172Ã"2Remove this unused method parameter "actionEvent".(Ó˜Ôƒ8üøù™‡2
+Y
+java:S2696Ä"6Make the enclosing method "static" or remove this set.(şÈÆûÿÿÿÿ8üøù™‡2
+Y
+java:S2696Í"6Make the enclosing method "static" or remove this set.(Ò€ä¦ıÿÿÿÿ8ıøù™‡2
+F	java:S108Î")Either remove or fill this block of code.(ï­£Ä8ıøù™‡2

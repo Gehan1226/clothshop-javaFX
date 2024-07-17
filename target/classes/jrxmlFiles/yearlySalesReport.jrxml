@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.21.0.final using JasperReports Library version 6.21.0-4f56c4f36cd19e17675219a9ac4692d5f0f13b06  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="YearlySalesReport" pageWidth="595" pageHeight="842" whenNoDataType="NoPages" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="e0292bfb-2f7e-4a5d-a1f3-98423389a8b2">
+    <field name="year" class="java.lang.String"/>
+    <field name="total" class="java.lang.Double"/>
+    <title>
+        <band height="50" splitType="Stretch">
+            <staticText>
+                <reportElement x="0" y="0" width="555" height="30" uuid="eb2cdf62-b57a-41c0-a8fd-ea0a87e50396"/>
+                <textElement textAlignment="Center">
+                    <font size="18" isBold="true"/>
+                </textElement>
+                <text><![CDATA[Yearly Sales Report]]></text>
+            </staticText>
+        </band>
+    </title>
+    <columnHeader>
+        <band height="20" splitType="Stretch">
+            <staticText>
+                <reportElement x="0" y="0" width="270" height="20" uuid="ae9d4777-8fae-451f-93e0-73da2babfe0b"/>
+                <box>
+                    <pen lineWidth="1.0" lineStyle="Dotted"/>
+                </box>
+                <textElement textAlignment="Center">
+                    <font isBold="true"/>
+                </textElement>
+                <text><![CDATA[Year]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="270" y="0" width="274" height="20" uuid="aa248f32-e13f-4354-85a6-502262e6e0ce"/>
+                <box>
+                    <pen lineWidth="1.0" lineStyle="Dotted"/>
+                </box>
+                <textElement textAlignment="Center">
+                    <font isBold="true"/>
+                </textElement>
+                <text><![CDATA[Total Sales (Rs.)]]></text>
+            </staticText>
+        </band>
+    </columnHeader>
+    <detail>
+        <band height="20" splitType="Stretch">
+            <textField>
+                <reportElement x="0" y="0" width="270" height="20" uuid="d29c8945-ed58-4b89-a89a-c8cad55c3ed6"/>
+                <box>
+                    <pen lineWidth="1.0" lineStyle="Dotted" lineColor="#321782"/>
+                </box>
+                <textElement textAlignment="Center"/>
+                <textFieldExpression><![CDATA[$F{year}]]></textFieldExpression>
+            </textField>
+            <textField>
+                <reportElement x="270" y="0" width="274" height="20" uuid="0aafa7e5-da15-4666-b565-625b232c5135"/>
+                <box>
+                    <pen lineWidth="1.0" lineStyle="Dotted" lineColor="#321782"/>
+                </box>
+                <textElement textAlignment="Center"/>
+                <textFieldExpression><![CDATA["Rs. " + String.format("%.2f", $F{total})]]></textFieldExpression>
+            </textField>
+        </band>
+    </detail>
+    <summary>
+        <band height="400">
+            <property name="com.jaspersoft.studio.unit.height" value="px"/>
+            <pieChart>
+                <chart evaluationTime="Report">
+                    <reportElement x="0" y="0" width="555" height="400" uuid="30d9f2e9-6d12-4a75-89f6-8c8d98e1c4fb"/>
+                    <chartTitle/>
+                    <chartSubtitle/>
+                    <chartLegend/>
+                </chart>
+                <pieDataset>
+                    <keyExpression><![CDATA[$F{year}]]></keyExpression>
+                    <valueExpression><![CDATA[$F{total}]]></valueExpression>
+                </pieDataset>
+                <piePlot>
+                    <plot/>
+                    <itemLabel/>
+                </piePlot>
+            </pieChart>
+        </band>
+    </summary>
+</jasperReport>

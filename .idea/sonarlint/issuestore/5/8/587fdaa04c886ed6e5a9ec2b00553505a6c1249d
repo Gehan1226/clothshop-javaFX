@@ -1,0 +1,10 @@
+
+	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8“Ñæò†2J$82775b50-90fd-4760-bf30-7e63df2efaa3
+‡
+java:S18544"?Remove this useless assignment to local variable "orderEntity".(Ôœıÿÿÿÿ8ë„ˆó†2J$d1a5d89b-cac5-4f66-a22b-efcfd8e465ff
+x
+java:S14814"0Remove this unused "orderEntity" local variable.(Ôœıÿÿÿÿ8ò„ˆó†2J$5a1736ac-38eb-4938-a0df-c374adff6bac
+…
+java:S1128"=Remove this unused import 'org.example.bo.custom.EmployeeBo'.(¹¾‘êøÿÿÿÿ8ºîğõ†2J$0cc592d3-d9c8-4780-91c9-97f003854973
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ºîğõ†2J$7fc76bb7-0047-442d-a38f-34c1918c5b3b

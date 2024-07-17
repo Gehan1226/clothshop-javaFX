@@ -1,0 +1,84 @@
+#login-bg{
+    -fx-background-image: url("images/R.png");
+    -fx-background-size: cover, auto;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
+
+#gridpane {
+    -fx-background-image: url("images/blueabs.jpg");
+    -fx-background-size: cover, auto;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
+
+.my-image-view {
+    -fx-effect: dropshadow(three-pass-box, rgba(241, 14, 6, 0.8), 40, 0, 0, 0);
+}
+
+.employee-img {
+    -fx-effect: dropshadow(three-pass-box, rgba(19, 131, 236, 0.8), 40, 0, 0, 0);
+}
+
+.table-cell {
+    -fx-alignment: CENTER;
+}
+
+.label-style {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+.label-style-price {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #008170;
+
+}
+
+.vbox-style {
+    -fx-border-color: #31363F;
+    -fx-border-width: 1;
+    -fx-padding: 10;
+}
+
+.table-view .column-header,
+.table-view .column-header .filler,
+.table-view .column-header-background .filler {   
+    -fx-background-color: #95D2B3;
+    -fx-stroke: transparent;
+    -fx-size:40;
+    -fx-alignment: CENTER ;    
+    -fx-text-alignment: center;
+    
+}
+.table-row-cell:filled:hover {
+    -fx-size:50;
+    -fx-alignment: CENTER;
+    -fx-text-alignment: center;
+
+
+}
+.table-view:row-selection {
+    -fx-background-color: #D8EFD3;
+    -fx-text-fill: white;
+    -fx-fixed-cell-size: 35;
+    -fx-alignment: CENTER;
+    -fx-text-alignment: center;
+
+}
+
+.table-view .table-column{
+    -fx-text-alignment: center;
+    -fx-alignment: CENTER 
+}
+
+.tilepane-style {
+    -fx-background-color: linear-gradient(to bottom, rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.1));
+}
+
+.img-login {
+    -fx-effect: dropshadow(three-pass-box, rgba(7, 33, 136, 0.8), 40, 0, 0, 0);
+}
+
+.img-reset-password{
+    -fx-effect: dropshadow(three-pass-box, rgba(6, 18, 85, 0.8), 40, 0, 0, 0);
+}
