@@ -25,7 +25,7 @@ public class OrderReceipt {
             parameters.put("fullPrice", order.getFullPrice());
 
             JasperPrint jasperPrint = JasperFillManager.fillReport(jasperReport, parameters, dataSource);
-            JasperExportManager.exportReportToPdfFile(jasperPrint, "orderReceipt.pdf");
+            JasperExportManager.exportReportToPdfFile(jasperPrint, "pdf/orderReceipt.pdf");
         }catch (JRException e) {
             log.error("Error generating order receipt : JRException occurred.", e);
         }catch (Exception e) {

@@ -72,7 +72,7 @@ public class OrderBoImpl implements OrderBo {
                 order.getCustomer().getEmail(),
                 "Cloth Shop Order Receipt",
                 "order receipt pdf",
-                "orderReceipt.pdf"
+                "pdf/orderReceipt.pdf"
         );
     }
 }
