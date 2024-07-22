@@ -43,7 +43,7 @@ public class EmployeeBoImpl implements EmployeeBo {
 
     @Override
     public Employee retrieveById(String empID){
-        return employeeDao.retrieve(empID);
+        return employeeDao.retrieveById(empID);
     }
 
     @Override

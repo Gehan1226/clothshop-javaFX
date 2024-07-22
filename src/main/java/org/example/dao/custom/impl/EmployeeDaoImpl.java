@@ -81,7 +81,7 @@ public class EmployeeDaoImpl implements EmployeeDao {
     }
 
     @Override
-    public Employee retrieve(String id){
+    public Employee retrieveById(String id){
         Employee employee = null;
         try {
             beginSession();

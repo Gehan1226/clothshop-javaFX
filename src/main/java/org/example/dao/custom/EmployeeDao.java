@@ -10,7 +10,7 @@ public interface EmployeeDao extends SuperDao {
     List<Employee> retrieveByEmail(String email);
     Employee retrieveLastRow();
     boolean save(EmployeeEntity dto);
-    Employee retrieve(String id);
+    Employee retrieveById(String id);
     boolean update(EmployeeEntity employeeEntity);
     boolean delete(String empID);
     List<Employee> retrieveAll();

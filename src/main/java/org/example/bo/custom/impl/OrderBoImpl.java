@@ -41,10 +41,10 @@ public class OrderBoImpl implements OrderBo {
         List<Object> itemQtys = itemMap.get("ItemQtys");
 
         for (int i = 0; i < itemIDs.size(); i++) {
-            Item item = itemDao.retrieve(String.valueOf(itemIDs.get(i)));
+            Item item = itemDao.retrieveById(String.valueOf(itemIDs.get(i)));
             order.addItem(item, (Integer) itemQtys.get(i));
         }
-        Employee employee = employeeDao.retrieve("E1");
+        Employee employee = employeeDao.retrieveById("E1");
         order.setEmployee(employee);
         CustomerEntity customerEntity = new ModelMapper().map(customer, CustomerEntity.class);
         OrderEntity orderEntity = new ModelMapper().map(order, OrderEntity.class);
@@ -58,7 +58,7 @@ public class OrderBoImpl implements OrderBo {
 
     @Override
     public Order getOrder(String orderID) {
-        return orderDao.retrieve(orderID);
+        return orderDao.retrieveById(orderID);
     }
 
     @Override

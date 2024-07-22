@@ -110,7 +110,7 @@ public class ItemDaoImpl implements ItemDao {
     }
 
     @Override
-    public Item retrieve(String id) {
+    public Item retrieveById(String id) {
         Item item = null;
         try {
             beginSession();

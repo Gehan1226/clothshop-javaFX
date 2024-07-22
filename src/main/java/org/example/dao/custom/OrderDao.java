@@ -10,7 +10,7 @@ import java.util.List;
 
 public interface OrderDao extends SuperDao {
     Order retrieveLastRow();
-    Order retrieve(String orderID);
+    Order retrieveById(String orderID);
     boolean save(CustomerEntity customerEntity);
     boolean delete(String orderId);
     List<Order> retrieveAll();

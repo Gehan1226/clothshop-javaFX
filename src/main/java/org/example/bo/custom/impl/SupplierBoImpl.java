@@ -42,7 +42,7 @@ public class SupplierBoImpl implements SupplierBo {
 
     @Override
     public Supplier retrieveById(String id){
-        return supplierDao.retrieve(id);
+        return supplierDao.retrieveById(id);
     }
 
     @Override

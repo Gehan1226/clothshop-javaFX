@@ -59,7 +59,7 @@ public class OrderDaoImpl implements OrderDao {
     }
 
     @Override
-    public Order retrieve(String orderID) {
+    public Order retrieveById(String orderID) {
         Order order = null;
         try {
             beginSession();

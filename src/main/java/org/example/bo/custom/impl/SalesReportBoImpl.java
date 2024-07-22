@@ -52,7 +52,19 @@ public class SalesReportBoImpl implements SalesReportBo {
                 }
             }
         }
-        return SalesReport.genarateDailySalesReport(dailySalesList);
+
+        DailySales maxQuantitySale = null;
+        for (DailySales sale : dailySalesList) {
+            if (maxQuantitySale == null || sale.getQuantity() > maxQuantitySale.getQuantity()) {
+                maxQuantitySale = sale;
+            }
+        }
+        String mostSoldItemIdOfDay = null;
+        if (maxQuantitySale != null){
+            mostSoldItemIdOfDay = maxQuantitySale.getItemID();
+        }
+
+        return SalesReport.genarateDailySalesReport(dailySalesList, mostSoldItemIdOfDay);
     }
 
     @Override

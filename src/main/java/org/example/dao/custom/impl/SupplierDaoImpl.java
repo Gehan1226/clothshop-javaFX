@@ -56,7 +56,7 @@ public class SupplierDaoImpl implements SupplierDao {
     }
 
     @Override
-    public Supplier retrieve(String supplierID) {
+    public Supplier retrieveById(String supplierID) {
         Supplier supplier = null;
         try {
             beginSession();

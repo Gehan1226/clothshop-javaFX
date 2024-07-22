@@ -30,7 +30,7 @@ public class ItemBoImpl implements ItemBo {
 
     public boolean saveItem(Item item, List<String> supIDS) {
         for (String suplierID : supIDS) {
-            Supplier supplier = supplierDao.retrieve(suplierID);
+            Supplier supplier = supplierDao.retrieveById(suplierID);
             item.addSupplier(supplier);
         }
         return itemDao.save(new ModelMapper().map(item, ItemEntity.class), supIDS);
@@ -47,14 +47,14 @@ public class ItemBoImpl implements ItemBo {
 
     @Override
     public Item retrieveById(String id) {
-        return itemDao.retrieve(id);
+        return itemDao.retrieveById(id);
     }
 
     public boolean updateItem(Item newItem, List<String> supllierIDS) {
         List<SupplierEntity> supplierEntityList = new ArrayList<>();
 
         for (String suplierID : supllierIDS) {
-            Supplier supplier = supplierDao.retrieve(suplierID);
+            Supplier supplier = supplierDao.retrieveById(suplierID);
             supplierEntityList.add(new ModelMapper().map(supplier, SupplierEntity.class));
         }
         return itemDao.update(new ModelMapper().map(newItem, ItemEntity.class), supplierEntityList);

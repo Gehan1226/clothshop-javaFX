@@ -8,8 +8,6 @@ import org.example.dto.sales.DailySales;
 import org.example.dto.sales.MonthlySales;
 import org.example.dto.sales.YearlySales;
 import org.example.util.PdfUtil;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import java.time.LocalDate;
 import java.util.HashMap;
 import java.util.List;
@@ -19,13 +17,17 @@ import java.util.Map;
 public class SalesReport {
     private SalesReport(){}
 
-    public static boolean genarateDailySalesReport(List<DailySales> dailySalesList) {
+    public static boolean genarateDailySalesReport(List<DailySales> dailySalesList, String mostSoldItemIdOfDay) {
         try {
             JasperReport jasperReport = JasperCompileManager.compileReport(
                     "src/main/resources/jrxmlFiles/dailySalesReport.jrxml");
             JRBeanCollectionDataSource dataSource = new JRBeanCollectionDataSource(dailySalesList);
 
-            JasperPrint jasperPrint = JasperFillManager.fillReport(jasperReport, null, dataSource);
+            Map<String, Object> parameters = new HashMap<>();
+            parameters.put("currentDate", String.valueOf(LocalDate.now()));
+            parameters.put("mostSoldItemIdOfDay", mostSoldItemIdOfDay);
+
+            JasperPrint jasperPrint = JasperFillManager.fillReport(jasperReport, parameters, dataSource);
             JasperExportManager.exportReportToPdfFile(jasperPrint, "pdf/DailySalesReport.pdf");
             PdfUtil.openPdf("pdf/DailySalesReport.pdf");
             return true;

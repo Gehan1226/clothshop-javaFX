@@ -12,5 +12,5 @@ public interface SupplierDao extends SuperDao {
     boolean save(SupplierEntity supplierEntity,List<String> itemIDS) ;
     boolean update(SupplierEntity dto,List<String> itemIDS);
     boolean delete(String ID);
-    Supplier retrieve(String supplierID);
+    Supplier retrieveById(String supplierID);
 }
